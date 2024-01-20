@@ -1,3 +1,4 @@
-buildozer
-javac
-git
+pip3 install buildozer
+pip3 install cython
+sudo apt install openjdk-18-jdk-headless
+sudo apt install git
